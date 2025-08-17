@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi 👋, I'm Rady  
+### 💻 Flutter Developer  
 
-<!--
-**Rady-abd-Eltawab/Rady-abd-Eltawab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌱 I’m currently learning Flutter & Firebase  
+💬 Ask me about Dart, OOP, Flutter  
+📫 Reach me at: radyabdaltawab@gmail.com  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Skills:
+- Flutter  
+- Dart  
+- Firebase  
+- MySQL  
+
+---
+
+![Coding](https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif)
